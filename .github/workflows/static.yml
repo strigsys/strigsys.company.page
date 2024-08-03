@@ -38,6 +38,8 @@ jobs:
         run: |
           npm install
           npm run build
+        working-directory: ./strigsys.company.page # Set this to where your package.json is located
+
 
       # Step 4: Upload artifact for deployment
       - name: Upload artifact
