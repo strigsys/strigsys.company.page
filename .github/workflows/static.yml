@@ -56,3 +56,13 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+
+      # Step 6: Clone gh-pages branch and list deployed files
+      - name: Checkout gh-pages branch
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages # or the branch you deploy to
+
+      - name: List deployed files
+        run: ls -la
