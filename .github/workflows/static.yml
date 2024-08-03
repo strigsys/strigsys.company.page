@@ -4,7 +4,7 @@ name: Deploy Vite React TypeScript App to GitHub Pages
 on:
   # Runs on pushes to the main branch
   push:
-    branches: ["main"]
+    branches: ["master"]
 
   # Allows manual triggering of the workflow
   workflow_dispatch:
