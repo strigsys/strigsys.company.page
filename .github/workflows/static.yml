@@ -50,7 +50,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: './dist' # Upload the build output directory
+          path: './strigsys.company.page/dist' # Upload the build output directory
 
       # Step 5: Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
