@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -40,6 +40,11 @@ jobs:
           npm run build
         working-directory: ./strigsys.company.page # Set this to where your package.json is located
 
+      # Step 3.A: Debugging step to list directory contents
+      - name: List files for debugging
+        run: |
+          ls -la ./strigsys.company.page # Adjust this path to verify contents
+          ls -la ./strigsys.company.page/dist # Verify if `dist` exists
 
       # Step 4: Upload artifact for deployment
       - name: Upload artifact
