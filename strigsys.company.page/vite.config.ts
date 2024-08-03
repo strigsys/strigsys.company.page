@@ -7,5 +7,5 @@ import react from '@vitejs/plugin-react'
 // in development is root
 export default defineConfig({
   plugins: [react()],
-  base: '/strigsys.company.page/'
+  base: process.env.VITE_BASE_URL || '/'
 })
