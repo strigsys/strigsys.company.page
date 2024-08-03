@@ -31,7 +31,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '16' # Use the LTS version of Node.js
+          node-version: '20' # Use the LTS version of Node.js
 
       # Step 3: Install dependencies and build
       - name: Install and Build
