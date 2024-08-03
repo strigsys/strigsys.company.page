@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Personal\\Source\\Repos\\strigsys.company.page\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1106DE-F98A-42E7-ADB8-FF33612C0AF7}|strigsys.company.page\\strigsys.company.page.esproj|c:\\personal\\source\\repos\\strigsys.company.page\\strigsys.company.page\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5A1106DE-F98A-42E7-ADB8-FF33612C0AF7}|strigsys.company.page\\strigsys.company.page.esproj|solutionrelative:strigsys.company.page\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1106DE-F98A-42E7-ADB8-FF33612C0AF7}|strigsys.company.page\\strigsys.company.page.esproj|c:\\personal\\source\\repos\\strigsys.company.page\\strigsys.company.page\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5A1106DE-F98A-42E7-ADB8-FF33612C0AF7}|strigsys.company.page\\strigsys.company.page.esproj|solutionrelative:strigsys.company.page\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1106DE-F98A-42E7-ADB8-FF33612C0AF7}|strigsys.company.page\\strigsys.company.page.esproj|c:\\personal\\source\\repos\\strigsys.company.page\\strigsys.company.page\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5A1106DE-F98A-42E7-ADB8-FF33612C0AF7}|strigsys.company.page\\strigsys.company.page.esproj|solutionrelative:strigsys.company.page\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1106DE-F98A-42E7-ADB8-FF33612C0AF7}|strigsys.company.page\\strigsys.company.page.esproj|c:\\personal\\source\\repos\\strigsys.company.page\\strigsys.company.page\\src\\assets\\react.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5A1106DE-F98A-42E7-ADB8-FF33612C0AF7}|strigsys.company.page\\strigsys.company.page.esproj|solutionrelative:strigsys.company.page\\src\\assets\\react.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1106DE-F98A-42E7-ADB8-FF33612C0AF7}|strigsys.company.page\\strigsys.company.page.esproj|c:\\personal\\source\\repos\\strigsys.company.page\\strigsys.company.page\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5A1106DE-F98A-42E7-ADB8-FF33612C0AF7}|strigsys.company.page\\strigsys.company.page.esproj|solutionrelative:strigsys.company.page\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1106DE-F98A-42E7-ADB8-FF33612C0AF7}|strigsys.company.page\\strigsys.company.page.esproj|c:\\personal\\source\\repos\\strigsys.company.page\\strigsys.company.page\\tsconfig.app.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5A1106DE-F98A-42E7-ADB8-FF33612C0AF7}|strigsys.company.page\\strigsys.company.page.esproj|solutionrelative:strigsys.company.page\\tsconfig.app.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1106DE-F98A-42E7-ADB8-FF33612C0AF7}|strigsys.company.page\\strigsys.company.page.esproj|c:\\personal\\source\\repos\\strigsys.company.page\\strigsys.company.page\\tsconfig.node.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5A1106DE-F98A-42E7-ADB8-FF33612C0AF7}|strigsys.company.page\\strigsys.company.page.esproj|solutionrelative:strigsys.company.page\\tsconfig.node.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1106DE-F98A-42E7-ADB8-FF33612C0AF7}|strigsys.company.page\\strigsys.company.page.esproj|c:\\personal\\source\\repos\\strigsys.company.page\\strigsys.company.page\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5A1106DE-F98A-42E7-ADB8-FF33612C0AF7}|strigsys.company.page\\strigsys.company.page.esproj|solutionrelative:strigsys.company.page\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1106DE-F98A-42E7-ADB8-FF33612C0AF7}|strigsys.company.page\\strigsys.company.page.esproj|c:\\personal\\source\\repos\\strigsys.company.page\\strigsys.company.page\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5A1106DE-F98A-42E7-ADB8-FF33612C0AF7}|strigsys.company.page\\strigsys.company.page.esproj|solutionrelative:strigsys.company.page\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1106DE-F98A-42E7-ADB8-FF33612C0AF7}|strigsys.company.page\\strigsys.company.page.esproj|c:\\personal\\source\\repos\\strigsys.company.page\\strigsys.company.page\\src\\vite-env.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5A1106DE-F98A-42E7-ADB8-FF33612C0AF7}|strigsys.company.page\\strigsys.company.page.esproj|solutionrelative:strigsys.company.page\\src\\vite-env.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "react.svg",
+              "DocumentMoniker": "C:\\Personal\\Source\\Repos\\strigsys.company.page\\strigsys.company.page\\src\\assets\\react.svg",
+              "RelativeDocumentMoniker": "strigsys.company.page\\src\\assets\\react.svg",
+              "ToolTip": "C:\\Personal\\Source\\Repos\\strigsys.company.page\\strigsys.company.page\\src\\assets\\react.svg",
+              "RelativeToolTip": "strigsys.company.page\\src\\assets\\react.svg",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-08-03T21:45:53.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "tsconfig.app.json",
+              "DocumentMoniker": "C:\\Personal\\Source\\Repos\\strigsys.company.page\\strigsys.company.page\\tsconfig.app.json",
+              "RelativeDocumentMoniker": "strigsys.company.page\\tsconfig.app.json",
+              "ToolTip": "C:\\Personal\\Source\\Repos\\strigsys.company.page\\strigsys.company.page\\tsconfig.app.json",
+              "RelativeToolTip": "strigsys.company.page\\tsconfig.app.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-03T21:44:09.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "tsconfig.node.json",
+              "DocumentMoniker": "C:\\Personal\\Source\\Repos\\strigsys.company.page\\strigsys.company.page\\tsconfig.node.json",
+              "RelativeDocumentMoniker": "strigsys.company.page\\tsconfig.node.json",
+              "ToolTip": "C:\\Personal\\Source\\Repos\\strigsys.company.page\\strigsys.company.page\\tsconfig.node.json",
+              "RelativeToolTip": "strigsys.company.page\\tsconfig.node.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-03T21:44:03.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "C:\\Personal\\Source\\Repos\\strigsys.company.page\\strigsys.company.page\\tsconfig.json",
+              "RelativeDocumentMoniker": "strigsys.company.page\\tsconfig.json",
+              "ToolTip": "C:\\Personal\\Source\\Repos\\strigsys.company.page\\strigsys.company.page\\tsconfig.json",
+              "RelativeToolTip": "strigsys.company.page\\tsconfig.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-03T21:43:59.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Personal\\Source\\Repos\\strigsys.company.page\\strigsys.company.page\\src\\App.css",
+              "RelativeDocumentMoniker": "strigsys.company.page\\src\\App.css",
+              "ToolTip": "C:\\Personal\\Source\\Repos\\strigsys.company.page\\strigsys.company.page\\src\\App.css",
+              "RelativeToolTip": "strigsys.company.page\\src\\App.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-03T21:43:25.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Personal\\Source\\Repos\\strigsys.company.page\\strigsys.company.page\\src\\App.tsx",
+              "RelativeDocumentMoniker": "strigsys.company.page\\src\\App.tsx",
+              "ToolTip": "C:\\Personal\\Source\\Repos\\strigsys.company.page\\strigsys.company.page\\src\\App.tsx",
+              "RelativeToolTip": "strigsys.company.page\\src\\App.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-03T21:43:24.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Personal\\Source\\Repos\\strigsys.company.page\\strigsys.company.page\\src\\index.css",
+              "RelativeDocumentMoniker": "strigsys.company.page\\src\\index.css",
+              "ToolTip": "C:\\Personal\\Source\\Repos\\strigsys.company.page\\strigsys.company.page\\src\\index.css",
+              "RelativeToolTip": "strigsys.company.page\\src\\index.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-03T21:43:23.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "main.tsx",
+              "DocumentMoniker": "C:\\Personal\\Source\\Repos\\strigsys.company.page\\strigsys.company.page\\src\\main.tsx",
+              "RelativeDocumentMoniker": "strigsys.company.page\\src\\main.tsx",
+              "ToolTip": "C:\\Personal\\Source\\Repos\\strigsys.company.page\\strigsys.company.page\\src\\main.tsx",
+              "RelativeToolTip": "strigsys.company.page\\src\\main.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-03T21:43:18.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "vite-env.d.ts",
+              "DocumentMoniker": "C:\\Personal\\Source\\Repos\\strigsys.company.page\\strigsys.company.page\\src\\vite-env.d.ts",
+              "RelativeDocumentMoniker": "strigsys.company.page\\src\\vite-env.d.ts",
+              "ToolTip": "C:\\Personal\\Source\\Repos\\strigsys.company.page\\strigsys.company.page\\src\\vite-env.d.ts",
+              "RelativeToolTip": "strigsys.company.page\\src\\vite-env.d.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-03T21:43:16.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "vite.config.ts",
+              "DocumentMoniker": "C:\\Personal\\Source\\Repos\\strigsys.company.page\\strigsys.company.page\\vite.config.ts",
+              "RelativeDocumentMoniker": "strigsys.company.page\\vite.config.ts",
+              "ToolTip": "C:\\Personal\\Source\\Repos\\strigsys.company.page\\strigsys.company.page\\vite.config.ts",
+              "RelativeToolTip": "strigsys.company.page\\vite.config.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-03T21:43:03.349Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
