@@ -4,12 +4,18 @@
     "tsBuildInfoFile": "./node_modules/.tmp/tsconfig.node.tsbuildinfo",
     "skipLibCheck": true,
     "module": "ESNext",
+
+    "lib": [ "DOM", "DOM.Iterable", "ESNext" ],
+
     "moduleResolution": "bundler",
     "allowSyntheticDefaultImports": true,
     "strict": true,
     "noEmit": true,
-    "types": ["node"]
+
+    "jsx": "react-jsx",
+
+    "types": [ "node", "react", "react-dom" ]
   },
-  
-  "include": ["vite.config.ts"]
+
+  "include": [ "vite.config.ts" ]
 }
