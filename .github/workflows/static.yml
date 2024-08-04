@@ -39,8 +39,8 @@ jobs:
           npm install
           npm run build
         working-directory: ./strigsys.company.page # Set this to where your package.json is located
-        env:
-          NODE_ENV: production # Explicitly set the environment
+        env: 
+            VITE_BASE_URL: '/strigsys.company.page/'
 
       # Step 3.A: Debugging step to list directory contents
       - name: List files for debugging
