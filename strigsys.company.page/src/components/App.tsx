@@ -10,9 +10,10 @@ import './App.css';
 
 function App() {
   //const [count, setCount] = useState(0);
+  const baseUrl = import.meta.env.VITE_BASE_URL || ''; // Obtén la variable de entorno
 
   return (
-    <Router>
+    <Router basename={baseUrl} >
       <div>
         <Routes>
           <Route path="/" element={<HomePage />} />
