@@ -1,0 +1,28 @@
+/* HomePage.css */
+.home-container {
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+.home-heading {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+}
+
+.home-subheading {
+  font-size: 1.8em;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.home-paragraph {
+  margin-bottom: 15px;
+}
+
+.home-list {
+  list-style-type: circle;
+  padding-left: 20px;
+}
