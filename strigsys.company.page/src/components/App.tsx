@@ -10,7 +10,11 @@ import './App.css';
 
 function App() {
   //const [count, setCount] = useState(0);
-  const baseUrl = import.meta.env.VITE_BASE_URL || ''; // Obtén la variable de entorno
+
+  // probablemente cuando se usa HashRouter, la variable de entorno VITE_BASE_URL no es necesaria
+  // y se puede usar tal cual root '/'
+  // const baseUrl = import.meta.env.VITE_BASE_URL || ''; // Obtén la variable de entorno
+  const baseUrl = ''; // Obtén la variable de entorno
 
   return (
     <Router basename={baseUrl} >
