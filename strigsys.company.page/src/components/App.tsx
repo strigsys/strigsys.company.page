@@ -5,6 +5,7 @@ import HomePage from "./page/HomePage/HomePage";
 //import reactLogo from './assets/react.svg';
 //import viteLogo from '/vite.svg';
 import './App.css';
+import Background from './common/Background/Background';
 
 
 
@@ -18,13 +19,23 @@ function App() {
 
   return (
     <Router basename={baseUrl} >
-      <div>
+        <Background backgroundImage="/img/backgrounds/pexels-kevin-ku-92347-577585.jpg">
         <Routes>
-          <Route path="/" element={<HomePage />} />
-          <Route path="/privacy-policy" element={<PrivacyPolicy />} />
+          <Route
+            path="*"
+            element={
+              window.location.pathname.startsWith('/img/') ? null : <HomePage />
+            }
+          />
+          <Route path="/" element={
+              <HomePage />
+          } />
+          <Route path="/privacy-policy" element={
+              <PrivacyPolicy />
+          } />
           {/* Agrega aquí otras rutas según sea necesario */}
         </Routes>
-      </div>
+    </Background>
     </Router>
 
 

@@ -1,11 +1,11 @@
 //import { useState } from 'react'
-import './HomePage.css'
+import './HomePage.css';
 import { Link } from "react-router-dom";
 
 function HomePage() {
   //const [count, setCount] = useState(0);
   return (
-    <div className="home-container">
+    <div className="home-container max-w-[800px] bg-gray-800 bg-opacity-90 text-white p-4 rounded-lg h-dvh w-full">
       <h1 className="home-heading">Bienvenido a Nuestra Empresa de Servicios Tecnológicos</h1>
       <p className="home-paragraph">
         Somos líderes en ofrecer soluciones tecnológicas de punta, ayudando a nuestros clientes a alcanzar el éxito a través de la innovación y la eficiencia.
@@ -31,7 +31,12 @@ function HomePage() {
       </ul>
 
       <p className="home-paragraph">
-        Para más información sobre cómo protegemos tu privacidad, consulta nuestra <Link to="/privacy-policy">Política de Privacidad</Link>.
+        Para más información sobre cómo protegemos tu privacidad, consulta nuestra&nbsp;
+        <Link to="/privacy-policy">
+          <b className="text-sky-500">
+          Política de Privacidad
+          </b>
+        </Link>.
       </p>
     </div>
   );
