@@ -15,11 +15,12 @@ function App() {
   // probablemente cuando se usa HashRouter, la variable de entorno VITE_BASE_URL no es necesaria
   // y se puede usar tal cual root '/'
   // const baseUrl = import.meta.env.VITE_BASE_URL || ''; // Obtén la variable de entorno
-  const baseUrl = ''; // Obtén la variable de entorno
+  const baseUrlForRoutes = ''; // Obtén la variable de entorno
+  const baseUrlForAssets = import.meta.env.VITE_BASE_URL || ''; 
 
   return (
-    <Router basename={baseUrl} >
-        <Background backgroundImage="/img/backgrounds/pexels-kevin-ku-92347-577585.jpg">
+    <Router basename={baseUrlForRoutes} >
+      <Background backgroundImage={`${baseUrlForAssets}/img/backgrounds/pexels-kevin-ku-92347-577585.jpg`}>
         <Routes>
           <Route
             path="*"
